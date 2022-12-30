@@ -3,7 +3,7 @@
  * Creation date: 12/23/2022
  */
 MACHINE
-    Robot
+    Robot 
 
 SEES
     Maze
